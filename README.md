@@ -59,7 +59,3 @@ git clone https://github.com/utkarsh12377/arena-adapt.git
 **Utkarsh Vats**
 
 ---
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
